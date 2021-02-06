@@ -1,6 +1,6 @@
 # logseq_blog
 
-This is a blog based ![logseq](https://logseq.com/) and ![Netlify](https://www.netlify.com/)
+This is a blog based [logseq](https://logseq.com/) and [Netlify](https://www.netlify.com/)
 
 
 # Status
