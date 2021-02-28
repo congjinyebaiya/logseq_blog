@@ -2,6 +2,7 @@
 
 This is a [blog](https://congjinyebaiya.wang) based [logseq](https://logseq.com/) and [Netlify](https://www.netlify.com/)
 
+<img src="https://congjinyebaiya-pics.oss-cn-hangzhou.aliyuncs.com/logseq.png" width = "10%"   height = "10%"  alt="logseq-alexkyle" align=left />
 
 # Status
 
