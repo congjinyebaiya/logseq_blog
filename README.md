@@ -9,3 +9,4 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c7f8c607-5c96-47bf-813c-3692f33f5277/deploy-status)](https://app.netlify.com/sites/congjinyebaiya/deploys)
 
+<a href="https://www.producthunt.com/posts/logseq?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-logseq" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=298158&theme=light" alt="Logseq - Your joyful, private digital garden | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
